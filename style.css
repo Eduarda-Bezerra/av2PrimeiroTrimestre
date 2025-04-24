@@ -30,5 +30,6 @@ section h2{
     color: #333333
 }
 section p{
-    margin-top 
+    margin-top: 10px;
+    padding: 10px;
 }
